@@ -1,1 +1,65 @@
 /* your code here */
+/* your code here */
+* {
+    margin: 0px;
+    padding: 0px;
+	background-color:black;
+}
+.link-boxes
+{
+	display:flex;
+	justify-content:space-between;
+	padding:40px 0px 0px 0px;
+	color:white;
+	font-size:30px;
+}
+.bottom-details
+{
+	display:flex;
+	width:100%;
+	justify-content:space-between;
+	color:white;
+	
+}
+.top
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-between;
+	
+}
+
+.logo_name
+{
+	font-size:35px;
+	color:white;
+}
+p{
+	padding:15px;
+	color:slategray;
+	font-size:20px;
+}
+.one
+{
+	color:white;
+	background-color:darkcyan;
+	width:100%;
+}
+a{
+	text-decoration:none;
+	color:white;
+}
+.contact
+{
+	display:flex;
+	flex-direction:column;
+}
+img{
+	padding:10px;
+	width:30px;
+	height:30px;
+}
+.media-icons
+{
+	display:flex;
+}
